@@ -1,0 +1,44 @@
+{
+  "name": "shopit",
+  "version": "1.0.0",
+  "description": "Ecommerse site with Mern",
+  "main": "server.js",
+  "scripts": {
+    "start": "node Backend/server.js",
+    "dev": "SET NODE_ENV=DEVELOPMENT& nodemon Backend/server",
+    "prod": "SET NODE_ENV=PRODUCTION& nodemon Backend/server",
+    "seeder": "node Backend/utils/seeder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eepanshu/ShopIt.git"
+  },
+  "author": "Deepanshu Bhadauria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eepanshu/ShopIt/issues"
+  },
+  "homepage": "https://github.com/eepanshu/ShopIt#readme",
+  "dependencies": {
+    "@stripe/react-stripe-js": "^2.4.0",
+    "@stripe/stripe-js": "^2.4.0",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.2",
+    "cloudinary": "^1.41.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.2.0",
+    "mongoose": "^8.2.1",
+    "nodemailer": "^6.9.7",
+    "react-bootstrap": "^2.9.1",
+    "react-redux": "^9.1.0",
+    "validator": "^13.11.0"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "nodemon": "^3.1.0"
+  }
+}

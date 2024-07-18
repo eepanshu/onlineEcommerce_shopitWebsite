@@ -1,0 +1,435 @@
+[
+    {
+        "name": "Product 2",
+        "price": 29.99,
+        "description": "Description for Product 2...",
+        "_id": "nv5jmrdzqzbkospqnt9d",
+        "rating": 4.0,
+        "images": [
+            {
+                "_id": "nv5jmrdzqzbkospqnt9d",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320515/nv5jmrdzqzbkospqnt9d.webp"
+            }
+        ],
+        "category": "Clothes/Shoes",
+        "seller": "Fashion Store",
+        "stock": 30,
+        "numOfReviews": 5,
+        "reviews": [
+            {   "user": "655e6143aed162338b9fb8cd",
+                "name": "Customer X",
+                "rating": 4,
+                "comment": "Fits well, but the color faded."
+            },
+            {   "user": "655e6191aed162338b9fb8d4",
+                "name": "Customer Y",
+                "rating": 3,
+                "comment": "Average quality, not great."
+            }
+        ]
+    },
+    {
+        "name": "Product 3",
+        "price": 19.99,
+        "description": "Description for Product 3...",
+        "_id": "nsust7k3qvh21uceutay",
+        "rating": 3.8,
+        "images": [
+            {
+                "_id": "nsust7k3qvh21uceutay",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320514/nsust7k3qvh21uceutay.webp"
+            }
+        ],
+        "category": "Home",
+        "seller": "Home Goods Inc.",
+        "stock": 25,
+        "numOfReviews": 7,
+        "reviews": [
+            {
+                "user": "655e6191aed162338b9fb8d4",
+                "name": "Customer M",
+                "rating": 5,
+                "comment": "Excellent quality, highly recommended!"
+            },
+            {   "user": "655e6143aed162338b9fb8cd",
+                "name": "Customer N",
+                "rating": 4,
+                "comment": "Good value for money."
+            }
+        ]
+    },
+    {
+        "name": "Product 4",
+        "price": 34.99,
+        "description": "Description for Product 4...",
+        "_id": "zklunfolh3prkz4blwct",
+        "rating": 4.2,
+        "images": [
+            {
+                "_id": "zklunfolh3prkz4blwct",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320514/zklunfolh3prkz4blwct.webp"
+            }
+        ],
+        "category": "sports",
+        "seller": "Outdoor Sports Gear",
+        "stock": 40,
+        "numOfReviews": 8,
+        "reviews": [
+            {
+                "user": "655e61e2aed162338b9fb8da",
+                "name": "Customer P",
+                "rating": 5,
+                "comment": "Great product for outdoor activities!"
+            },
+            {
+                "user": "655e619baed162338b9fb8d6",
+                "name": "Customer Q",
+                "rating": 4,
+                "comment": "Sturdy and durable."
+            }
+        ]
+    },
+    {
+        "name": "Product 5",
+        "price": 69.99,
+        "description": "Description for Product 5...",
+        "_id": "qrlfr4ua8wdrdva2zkr1",
+        "rating": 4.7,
+        "images": [
+            {
+                "_id": "qrlfr4ua8wdrdva2zkr1",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320514/qrlfr4ua8wdrdva2zkr1.webp"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "Beauty Emporium",
+        "stock": 60,
+        "numOfReviews": 12,
+        "reviews": [
+            {
+                "user": "655e619baed162338b9fb8d6",
+                "name": "Customer R",
+                "rating": 5,
+                "comment": "Works like a charm, highly recommended!"
+            },
+            {
+                "user": "655e617eaed162338b9fb8d0",
+                "name": "Customer S",
+                "rating": 4.5,
+                "comment": "Impressed with the results."
+            }
+        ]
+    },
+    {
+        "name": "Product 6",
+        "price": 99.99,
+        "description": "Description for Product 6...",
+        "_id": "gpgzfxjtess2vtgl75jg",
+        "rating": 4.8,
+        "images": [
+            {
+                "_id": "gpgzfxjtess2vtgl75jg",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320514/gpgzfxjtess2vtgl75jg.webp"
+            }
+        ],
+        "category": "Furniture",
+        "seller": "Furniture World",
+        "stock": 20,
+        "numOfReviews": 6,
+        "reviews": [
+            {
+                "user": "655e619baed162338b9fb8d6",
+                "name": "Customer T",
+                "rating": 5,
+                "comment": "Beautiful and well-made furniture!"
+            },
+            {
+                "user": "655e6191aed162338b9fb8d4",
+                "name": "Customer U",
+                "rating": 4.5,
+                "comment": "Impressive craftsmanship."
+            }
+        ]
+    },
+    {
+        "name": "Product 7",
+        "price": 15.99,
+        "description": "Description for Product 7...",
+        "_id": "zweoy2890jhjffdroiww",
+        "rating": 3.5,
+        "images": [
+            {
+                "_id": "zweoy2890jhjffdroiww",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320514/zweoy2890jhjffdroiww.webp"
+            }
+        ],
+        "category": "Toys & Games",
+        "seller": "Kids Playhouse",
+        "stock": 35,
+        "numOfReviews": 9,
+        "reviews": [
+            {
+                "user": "655e6143aed162338b9fb8cd",
+                "name": "Customer V",
+                "rating": 4,
+                "comment": "Fun for kids, but a bit flimsy."
+            },
+            {
+                "user": "655e6191aed162338b9fb8d4",
+                "name": "Customer W",
+                "rating": 3,
+                "comment": "Decent, but could be better."
+            }
+        ]
+    },
+    {
+        "name": "Product 8",
+        "price": 39.99,
+        "description": "Description for Product 8...",
+        "_id": "iucpeev5fd1lvsrhu0zt",
+        "rating": 4.3,
+        "images": [
+            {
+                "_id": "iucpeev5fd1lvsrhu0zt",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320514/iucpeev5fd1lvsrhu0zt.webp"
+            }
+        ],
+        "category": "Books",
+        "seller": "Bookstore Unlimited",
+        "stock": 45,
+        "numOfReviews": 11,
+        "reviews": [
+            {
+                "user": "655e619baed162338b9fb8d6",
+                "name": "Customer X",
+                "rating": 5,
+                "comment": "Great book, a must-read!"
+            },
+            {
+                "user": "655e6143aed162338b9fb8cd",
+                "name": "Customer Y",
+                "rating": 4,
+                "comment": "Interesting and well-written."
+            }
+        ]
+    },
+    {
+        "name": "Product 9",
+        "price": 79.99,
+        "description": "Description for Product 9...",
+        "_id": "ligbtn9obesxv5dzygzp",
+        "rating": 4.6,
+        "images": [
+            {
+                "_id": "ligbtn9obesxv5dzygzp",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320514/ligbtn9obesxv5dzygzp.webp"
+            }
+        ],
+        "category": "Health & Wellness",
+        "seller": "Wellness Haven",
+        "stock": 28,
+        "numOfReviews": 7,
+        "reviews": [
+            {
+                "user": "655e619baed162338b9fb8d6",
+                "name": "Customer Z",
+                "rating": 5,
+                "comment": "Life-changing product, highly recommended!"
+            },
+            {
+                "user": "655e6143aed162338b9fb8cd",
+                "name": "Customer AA",
+                "rating": 4.5,
+                "comment": "Improved my well-being."
+            }
+        ]
+    },
+    {
+        "name": "Product 10",
+        "price": 64.99,
+        "description": "Description for Product 10...",
+        "_id": "bfkfgaxxz6ynewtjlqjh",
+        "rating": 4.4,
+        "images": [
+            {
+                "_id": "bfkfgaxxz6ynewtjlqjh",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320513/bfkfgaxxz6ynewtjlqjh.webp"
+            }
+        ],
+        "category": "Food",
+        "seller": "Food Delights",
+        "stock": 22,
+        "numOfReviews": 8,
+        "reviews": [
+            {
+                "user": "655e6143aed162338b9fb8cd",
+                "name": "Customer BB",
+                "rating": 4,
+                "comment": "Delicious and high-quality."
+            },
+            {
+                "user": "655e6191aed162338b9fb8d4",
+                "name": "Customer CC",
+                "rating": 4.5,
+                "comment": "Tastes like heaven!"
+            }
+        ]
+    },
+    {
+        "name": "Product 11",
+        "price": 59.99,
+        "description": "Description for Product 11...",
+        "_id": "nmnphdphtuxaswbm3dbj",
+        "rating": 4.2,
+        "images": [
+            {
+                "_id": "nmnphdphtuxaswbm3dbj",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320513/nmnphdphtuxaswbm3dbj.webp"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Tech Haven",
+        "stock": 38,
+        "numOfReviews": 9,
+        "reviews": [
+            {
+                "user": "655e617eaed162338b9fb8d0",
+                "name": "Customer DD",
+                "rating": 4,
+                "comment": "Good tech, but a bit pricey."
+            },
+            {
+                "user": "655e619baed162338b9fb8d6",
+                "name": "Customer EE",
+                "rating": 4.5,
+                "comment": "Impressive features."
+            }
+        ]
+    },
+    {
+        "name": "Product 12",
+        "price": 45.99,
+        "description": "Description for Product 12...",
+        "_id": "mflvamaeamjndeivw15h",
+        "rating": 4.3,
+        "images": [
+            {
+                "_id": "mflvamaeamjndeivw15h",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320513/mflvamaeamjndeivw15h.webp"
+            }
+        ],
+        "category": "Home",
+        "seller": "Home Decor World",
+        "stock": 32,
+        "numOfReviews": 10,
+        "reviews": [
+            {
+                "user": "655e6143aed162338b9fb8cd",
+                "name": "Customer FF",
+                "rating": 5,
+                "comment": "Stylish and well-made."
+            },
+
+            {
+                "user": "655e619baed162338b9fb8d6",
+                "name": "Customer GG",
+                "rating": 4,
+                "comment": "Good value for the price."
+            }
+        ]
+    },
+    {
+        "name": "Product 13",
+        "price": 25.99,
+        "description": "Description for Product 13...",
+        "_id": "j1vklz11dkqyoo0r0f7z",
+        "rating": 3.9,
+        "images": [
+            {
+                "_id": "j1vklz11dkqyoo0r0f7z",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320512/j1vklz11dkqyoo0r0f7z.webp"
+            }
+        ],
+        "category": "Toys & Games",
+        "seller": "Toyland Emporium",
+        "stock": 42,
+        "numOfReviews": 8,
+        "reviews": [
+            {
+                "user": "655e617eaed162338b9fb8d0",
+                "name": "Customer HH",
+                "rating": 4,
+                "comment": "Fun for kids, but not very durable."
+            },
+            {
+                "user": "655e619baed162338b9fb8d6",
+                "name": "Customer II",
+                "rating": 3.5,
+                "comment": "Decent, but could be improved."
+            }
+        ]
+    },
+    {
+        "name": "Product 14",
+        "price": 69.99,
+        "description": "Description for Product 14...",
+        "_id": "wmjs9s19id0fz6ulvcjp",
+        "rating": 4.7,
+        "images": [
+            {
+                "_id": "wmjs9s19id0fz6ulvcjp",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699320512/wmjs9s19id0fz6ulvcjp.webp"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "Beauty Emporium",
+        "stock": 28,
+        "numOfReviews": 10,
+        "reviews": [
+            {
+                "user": "655e61e2aed162338b9fb8da",
+                "name": "Customer JJ",
+                "rating": 5,
+                "comment": "Works like a charm, highly recommended!"
+            },
+            {
+                "user": "655e619baed162338b9fb8d6",
+                "name": "Customer KK",
+                "rating": 4.5,
+                "comment": "Impressed with the results."
+            }
+        ]
+    },
+    {
+        "name": "Product 15",
+        "price": 19.99,
+        "description": "Description for Product 15...",
+        "_id": "cld-sample",
+        "rating": 3.7,
+        "images": [
+            {
+                "_id": "cld-sample",
+                "url": "https://res.cloudinary.com/dbq1kyads/image/upload/v1699255206/cld-sample.jpg"
+            }
+        ],
+        "category": "Fashion",
+        "seller": "Fashion Trends",
+        "stock": 30,
+        "numOfReviews": 6,
+        "reviews": [
+            {
+                "user": "655e6143aed162338b9fb8cd",
+                "name": "Customer LL",
+                "rating": 4,
+                "comment": "Stylish, but the fabric could be better."
+            },
+            {
+                "user": "655e617eaed162338b9fb8d0",
+                "name": "Customer MM",
+                "rating": 3,
+                "comment": "Decent, but not outstanding."
+            }
+        ]
+    }
+]
+
